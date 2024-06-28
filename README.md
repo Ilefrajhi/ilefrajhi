@@ -5,11 +5,9 @@
 
  My name is Ilef i have a computer science degree, a cybersecurity enthusiast, and I like coding.
 
-## Here are some ideas to get you started:
-
 📚 "I'm currently learning cybersecurity and coding.
 🎯 Goals: Become a professional pentester.
-🌱 I’m currently learning to develop games with JavaScript
+🌱 I’m currently learning to develop games with JavaScript.
 
 ## Projects
 - Memory cards
