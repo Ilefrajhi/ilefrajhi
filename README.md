@@ -4,7 +4,6 @@
 
 📚 "I'm currently learning cybersecurity and coding.
 🎯 Goals: Become a professional pentester.
-🌱 I’m currently learning to develop games with JavaScript.
 
 ## Projects
 - Memory cards
