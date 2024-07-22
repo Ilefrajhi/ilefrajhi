@@ -21,17 +21,17 @@
 ### Weather Application
 - **Description:** A web application to display weather information for multiple cities.
 - **Technologies:** HTML, CSS, JavaScript, Flask
-- [View Repository](https://github.com/username/weather-app)
+- [View Repository](https://github.com/ilefrajhi/weather-app)
 
 ### ToDo List Application
 - **Description:** A Django-based web application to manage tasks with categories and scheduling features.
 - **Technologies:** Django, Bootstrap
-- [View Repository](https://github.com/username/todolist)
+- [View Repository](https://github.com/ilefrajhi/todolist)
 
 ### Memory Game
 - **Description:** A fun memory game built with HTML, CSS, and JavaScript.
 - **Technologies:** HTML, CSS, JavaScript
-- [View Repository](https://github.com/username/memory-game)
+- [View Repository](https://github.com/ilefrajhi/memory-game)
 
 
 
