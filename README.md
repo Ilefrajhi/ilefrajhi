@@ -44,8 +44,9 @@
 ## 💻 Operating system knowledge:
 ![image](https://github.com/Ilefrajhi/ilefrajhi/assets/123025307/6fca6c93-403e-4cce-b7b5-0921a8a4c5fc)
 
+##Profile views
+![Profile views](https://komarev.com/ghpvc/?username=ilefrajhi&color=blue)
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Ilefrajhi.ilefrajhi)
 
 ## GitHub Stats
 
@@ -57,7 +58,6 @@
 
 > “Debugging because every great programmer writes bugs faster than they can fix them.”
 
-Welcome to my GitHub profile!
 
 
 
