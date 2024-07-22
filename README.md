@@ -49,9 +49,9 @@
 
 ## GitHub Stats
 
-![Ilef's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilef-rajhi&show_icons=true&theme=radical)
+![Ilef's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilefrajhi&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilef-rajhi&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilefrajhi&layout=compact&theme=radical)
 
 ## Quotes
 
