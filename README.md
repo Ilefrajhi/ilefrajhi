@@ -58,7 +58,7 @@
 
 ## Quotes
 
-> “Debugging because every great programmer writes bugs faster than they can fix them.”
+> “The quieter you become, the more you are able to hear.”
 
 
 
