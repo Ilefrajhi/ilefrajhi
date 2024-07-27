@@ -31,7 +31,7 @@
 ### Memory Game
 - **Description:** A fun memory game built with HTML, CSS, and JavaScript.
 - **Technologies:** HTML, CSS, JavaScript
-- [View Repository](https://github.com/ilefrajhi/memory-game)
+- [View Repository](https://github.com/Ilefrajhi/memory-cards)
 
 
 
