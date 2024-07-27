@@ -26,7 +26,7 @@
 ### ToDo List Application
 - **Description:** A Django-based web application to manage tasks with categories and scheduling features.
 - **Technologies:** Django, Bootstrap
-- [View Repository](https://github.com/ilefrajhi/todolist)
+- [View Repository](https://github.com/Ilefrajhi/to-do-list)
 
 ### Memory Game
 - **Description:** A fun memory game built with HTML, CSS, and JavaScript.
