@@ -1,21 +1,6 @@
  ## Welcome to my GitHub repository!
 
  My name is Ilef i have a computer science degree, a cybersecurity enthusiast, and I like coding.
-
-## Skills
-
-- **Programming Languages:** C, Java, Python
-- **Web Development:** HTML, CSS, JavaScript, Django, Flask
-- **Databases:** MySQL
-- **Operating Systems:** Kali Linux, Ubuntu, Windows
-- **Tools and Frameworks:** Git, GitHub, Docker, Scapy, Matplotlib, Pandas
-- **Virtualization:** VMware
-- **Network Security:**
-  - **Protocols:** TCP/IP, HTTP/HTTPS, FTP, SSH, SNMP
-  - **Encryption Algorithms:** AES, RSA, DES, 
-  - **Tools:** nmap, Wireshark, Metasploit, Nikto Aircrack-ng, Medusa
-  - **Techniques:** Penetration testing, vulnerability assessment, network monitoring, cloud security
-
  ## Projects
 
 ### Weather Application
@@ -55,6 +40,15 @@
 ![Ilef's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilefrajhi&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilefrajhi&layout=compact&theme=radical)
+
+## My TryHackMe Badge
+
+<script src="https://tryhackme.com/badge/2802991"></script>
+
+OR
+
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Tokyo.png)
+
 
 ## Quotes
 
