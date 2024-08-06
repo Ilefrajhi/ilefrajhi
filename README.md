@@ -22,7 +22,7 @@
 
 ## Quotes
 
-> “The quieter you become, the more you are able to hear.”
+> “The quiter you become, the more you are able to hear.”
 
 
 
