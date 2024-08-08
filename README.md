@@ -8,7 +8,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilefrajhi&layout=compact&theme=radical) 
 
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Tokyo.png)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/tanit.png)
 
 ## Profile views
 
